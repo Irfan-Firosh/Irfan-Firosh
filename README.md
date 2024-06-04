@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Irfan Firosh</h1>
 <h3 align="center">A Computer Science and Math student at Purdue University</h3>
 
-- 🔭 I’m currently working on [Zen File](https://github.com/Irfan-Firosh/zenfile)
+- 🔭 I’m currently working on [Edu Clip](https://github.com/Irfan-Firosh/Catapult-EduClip)
 
 - 🌱 I’m currently learning **React.js, Next.js, Node.js**
 
