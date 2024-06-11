@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Edu Clip](https://github.com/Irfan-Firosh/Catapult-EduClip)
 
-- 🌱 I’m currently learning **React.js, Next.js, Node.js**
+- 🌱 I’m currently learning PHP, Laravel, and BootStrap
 
 - 💬 Ask me about **Python, Java, C**
 
