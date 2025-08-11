@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Irfan Firosh</h1>
 <h3 align="center">A Computer Science and Math student at Purdue University</h3>
 
-- 🔭 I’m currently working on [Edu Clip](https://github.com/Irfan-Firosh/Catapult-EduClip)
-
-- 🌱 I’m currently learning PHP, Laravel, and BootStrap
-
-- 💬 Ask me about **Python, Java, C**
+- 🔭 I’m currently working on [Yapply](https://github.com/Irfan-Firosh/Yapply-backend)
 
 - 📫 How to reach me **irfan.firosh@gmail.com**
   
