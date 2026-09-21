@@ -17,5 +17,4 @@
 
   [twitter](https://x.com/IFirosh) · [linkedin](https://www.linkedin.com/in/irfan-firosh/)
 
-  ![profile views](https://komarev.com/ghpvc/?username=Irfan-
-  Firosh&label=visitors&color=2f6b3a&style=flat)
+  ![profile views](https://komarev.com/ghpvc/?username=Irfan-Firosh&label=visitors&color=2f6b3a&style=flat)
