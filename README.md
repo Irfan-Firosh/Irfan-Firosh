@@ -5,8 +5,6 @@
 
   [personal website](https://irfanfirosh.app/?ref=GitHub)
 
-  `ref=GitHub`
-
   ## currently
 
   building competitive tools, small experiments, and whatever seems fun enough to ship.
