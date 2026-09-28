@@ -9,10 +9,6 @@
 
   building competitive tools, small experiments, and whatever seems fun enough to ship.
 
-  ## interests
-
-  soccer · pickleball · matcha · tv shows · io games · making things on the internet
-
   ## elsewhere
 
   [twitter](https://x.com/IFirosh) · [linkedin](https://www.linkedin.com/in/irfan-firosh/)
