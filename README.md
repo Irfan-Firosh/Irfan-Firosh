@@ -11,6 +11,6 @@
 
   ## elsewhere
 
-  [twitter](https://x.com/IFirosh) · [linkedin](https://www.linkedin.com/in/irfan-firosh/) [mail](irfan.firosh@gmail.com)
+  [twitter](https://x.com/IFirosh) · [linkedin](https://www.linkedin.com/in/irfan-firosh/) · [mail](mailto:irfan.firosh@gmail.com)
 
   ![profile views](https://komarev.com/ghpvc/?username=Irfan-Firosh&label=visitors&color=2f6b3a&style=flat)
